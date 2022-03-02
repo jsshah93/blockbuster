@@ -1,12 +1,17 @@
 # blockbuster
 my postman screenshots:
 ![put](https://ibb.co/BV1ny65.jpeg)
+
 ![delete](https://imgur.com/a/C5o3Xh1)
+
 ![get](https://ibb.co/98jxVPr)
+
 ![post](https://ibb.co/FkrGNq4)
 
 my testing screenshots;
+
 ![JUnit](https://ibb.co/fGkTMvQ)
+
 ![coverage](https://ibb.co/r29wTpF)
 
 ERD:
