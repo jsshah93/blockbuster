@@ -1,0 +1,1 @@
+INSERT INTO `blockbuster`(`movie_name`,`movie_rel_date`,`movie_rating`) VALUES('Spider-man', '2021-12-25', 10 );
