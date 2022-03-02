@@ -1,7 +1,7 @@
 # blockbuster
 my postman screenshots:
 ![put](https://ibb.co/BV1ny65.jpeg)
-![delete](https://ibb.co/VVbBQH7)
+![delete](https://imgur.com/a/C5o3Xh1)
 ![get](https://ibb.co/98jxVPr)
 ![post](https://ibb.co/FkrGNq4)
 
